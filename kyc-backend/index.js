@@ -10,7 +10,7 @@ app.use(express.json());
 app.post('/validate-id', async (req, res) => {
   const { type, id } = req.body;
 
-  // Basic mock logic (replace this with actual API call if needed)
+  // Basic mock logic (replace with actual API call if improvement needed)
   if (!id) return res.status(400).json({ valid: false, reason: 'Empty ID' });
 
   const isValidFormat =

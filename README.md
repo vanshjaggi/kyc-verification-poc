@@ -15,7 +15,25 @@ A simple full-stack **Proof of Concept (POC)** for Know Your Customer (KYC) veri
 - ❌ No data storage or real validation (this is a frontend-first demo)
 
 ---
+# Frontend Images
+1. Screen-1(Invalid Details)
+   <br><img width="700"  alt="Screen-1(Invalid Details)" src="https://github.com/user-attachments/assets/131a12ad-913f-4c46-a690-4d5ba75d8418" />
 
+2. Screen-1(Valid Detials)
+    <br><img width="700" alt="Screen-1(Valid Details)" src="https://github.com/user-attachments/assets/29497df5-2d27-457f-9209-eeffdc3eba73" />
+
+3. Summary Screen
+    <br><img width="700" alt="Summary_Screen" src="https://github.com/user-attachments/assets/321a2f7d-61be-40c2-857e-de1bba47cb87" />
+
+4. Document Preview
+    <br><img width="700" alt="image" src="https://github.com/user-attachments/assets/846522f8-d115-4d64-a5e6-3d55c4028210" />
+
+
+5. Confirmation Screen
+    <br><img width="700" alt="Confirmation Screen" src="https://github.com/user-attachments/assets/cc6c7299-0157-43f6-80ed-0a0ca6a7868e" />
+
+
+---
 ## 🗂️ Folder Structure
 
 ```text

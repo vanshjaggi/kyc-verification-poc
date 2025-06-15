@@ -8,7 +8,6 @@ A simple full-stack **Proof of Concept (POC)** for Know Your Customer (KYC) veri
 
 - 📝 Collects **Full Name**, **Date of Birth**, **Aadhaar/PAN Number**, and **Document Upload**
 - 📤 **Live document preview** (image or PDF)
-- 🔍 **Real-time Aadhaar/PAN validation** (mocked via backend API)
 - 📄 Read-only **summary view** before submission
 - ✅ Simulated **KYC verification flow**
 - 💻 Clean, **responsive** and accessible UI using plain CSS (no Tailwind)
